@@ -34,6 +34,10 @@ a {
   color: inherit;
   text-decoration: none;
 }
+ul {
+  padding-left: 1.5rem;
+  list-style-type: disc;
+}
 
 @media (prefers-color-scheme: dark) {
   html {
